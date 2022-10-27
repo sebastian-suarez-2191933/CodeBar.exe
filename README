@@ -1,0 +1,8 @@
+Software para la creacion de codigos de barra para productos del mercado, cuentan con una descripcion y su respectivo codigo.
+
+Ideas a futuro es crear versiones para generar nuevos servicios como el generador de codigos QR, y arreglar bugs o errores presentados por actualizaciones de plugins
+y scripts.
+
+El ejecutable fue diseñado y desarrollado por mi persona como una solución a la problematica de mi hermano, ya que en su medio de trabajo en la publicidad,
+necesitaba el poder generar los codigos de barras para los productos de sus clientes, pero solo se encontraba con que en internet cobraban o los gratis se borraban
+en cierto tiempo.
